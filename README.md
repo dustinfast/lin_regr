@@ -21,7 +21,7 @@ y^ = an estimation of y (given some x) according to y'.
 
 ## Analysis
 
-This tool was used to analyze Alaskan Socket Salmon harvest rate data as provided by the Alaska Department of Fish and Game. (dip-har-eff.csv, drift-har-eff.csv, and set-har-eff.csv). See analysis.docx.
+This tool was used to analyze Alaskan Sockey Salmon harvest rate data as provided by the Alaska Department of Fish and Game. (dip-har-eff.csv, drift-har-eff.csv, and set-har-eff.csv). See analysis.docx.
 
 ### TODO:
 
