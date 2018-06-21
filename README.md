@@ -1,13 +1,13 @@
 # Linear Regression Modeler
 
-Creates a linear regression model to determine statistical correlaries (correlation cooeficient, etc.) given two 1D data sets.
+Creates a linear regression model to determine bivariate statistical correlation.
 
 ## Usage
 
 Compile with `g++ -std=c++11 lin_regr.cpp -o lin_regr.exe` (or equivelant).
 Run with `./lin_regr.exe` and follow follow prompts.
 
-Data set input format is csv (first line headers ok).
+Data set input format is a single csv (first line headers ok) with variables in columns.
 After model build, an arbitrary value of x may be entered to get an estimated y (y^).
 
 ## Model
